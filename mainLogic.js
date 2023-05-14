@@ -1,5 +1,4 @@
-const baseUrl = "http://localhost:3030/api/v1"
-// const baseUrl = "https://tarmeezAcademy.com/api/v1"
+const baseUrl = "https://tarmeezAcademy.com/api/v1"
 
 // ======= POST REQUESTS ======////
 function createNewPostClicked() {
